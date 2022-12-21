@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pushkert
-- 👀 I’m interested in Node JS, REACT JS, MONGODB,AWS 
+- 👀 I’m interested in Node JS, REACT JS, MONGODB,AWS, LAMBDA Functions, DynamoDB, ELK TECHSTACK 
 - 🌱 I’m currently learning Terraform and K8's
 - 💞️ I’m looking to collaborate on React JS and open source collobaration 
 - 📫 How to reach me ...
